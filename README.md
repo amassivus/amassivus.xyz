@@ -6,9 +6,9 @@ amassivus.xyz main web page
 
 amassivus.xyz main web page
 
-Copyright (C) 2017-2023 Masscollabs Services
+Copyright (C) 2017-2024 Masscollabs Services
 
-Copyright (C) 2017-2023 amassivus and contributors
+Copyright (C) 2017-2024 amassivus and contributors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
